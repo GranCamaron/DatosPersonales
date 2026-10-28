@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="fondo">#F4F6F8</color>
+    <color name="primario">#245A81</color>
+    <color name="texto">#222222</color>
+    <color name="rojo_error">#C62828</color>
+    <color name="blanco">#FFFFFF</color>
+
+</resources>

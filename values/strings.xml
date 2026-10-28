@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Datos personales</string>
+    <string name="titulo">Datos personales</string>
+    <string name="boton_idioma">English</string>
+
+    <string name="etiqueta_nombre">Nombre</string>
+    <string name="pista_nombre">Escribe tu nombre</string>
+
+    <string name="etiqueta_apellidos">Apellidos</string>
+    <string name="pista_apellidos">Escribe tus apellidos</string>
+
+    <string name="etiqueta_edad">Edad</string>
+    <string name="pista_edad">Introduce tu edad</string>
+
+    <string name="etiqueta_genero">Género</string>
+    <string name="hombre_radio">Hombre</string>
+    <string name="mujer_radio">Mujer</string>
+
+    <string name="hombre_mensaje">hombre</string>
+    <string name="mujer_mensaje">mujer</string>
+
+    <string name="etiqueta_estado_civil">Estado civil</string>
+
+    <string-array name="opciones_estado_civil">
+        <item>Selecciona el estado civil</item>
+        <item>Solter@</item>
+        <item>Casad@</item>
+        <item>Separad@</item>
+        <item>Viud@</item>
+        <item>Otr@</item>
+    </string-array>
+
+    <string-array name="estados_masculinos">
+        <item>soltero</item>
+        <item>casado</item>
+        <item>separado</item>
+        <item>viudo</item>
+        <item>otro</item>
+    </string-array>
+
+    <string-array name="estados_femeninos">
+        <item>soltera</item>
+        <item>casada</item>
+        <item>separada</item>
+        <item>viuda</item>
+        <item>otra</item>
+    </string-array>
+
+    <string-array name="estados_neutros">
+        <item>solter@</item>
+        <item>casad@</item>
+        <item>separad@</item>
+        <item>viud@</item>
+        <item>otr@</item>
+    </string-array>
+
+    <string name="etiqueta_hijos">Tiene hijos</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+
+    <string name="boton_mostrar">Mostrar datos</string>
+    <string name="boton_limpiar">Limpiar</string>
+
+    <string name="campo_nombre">nombre</string>
+    <string name="campo_apellidos">apellidos</string>
+    <string name="campo_edad">edad</string>
+
+    <string name="separador_lista">, </string>
+    <string name="error_datos">Faltan datos obligatorios: %1$s.</string>
+    <string name="error_edad_invalida">Introduce una edad válida.</string>
+
+    <string name="mayor_edad">mayor de edad</string>
+    <string name="menor_edad">menor de edad</string>
+
+    <string name="con_hijos">con hijos</string>
+    <string name="sin_hijos">sin hijos</string>
+    <string name="estado_no_indicado">no indicado</string>
+
+    <string name="formato_mensaje">%1$s, %2$s, %3$s, %4$s %5$s y %6$s.</string>
+
+    <string name="formato_mensaje_sin_estado">%1$s, %2$s, %3$s, %4$s, estado civil %5$s y %6$s.</string>
+
+    <string name="formato_mensaje_sin_genero">%1$s, %2$s, %3$s, género no indicado, %4$s y %5$s.</string>
+
+    <string name="formato_mensaje_sin_genero_ni_estado">%1$s, %2$s, %3$s, género y estado civil no indicados, y %4$s.</string>
+
+</resources>
